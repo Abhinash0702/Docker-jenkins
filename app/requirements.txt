@@ -1,4 +1,4 @@
 flask
-mysql-connector-pytho
+mysql-connector-python
 
 
